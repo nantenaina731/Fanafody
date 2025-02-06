@@ -1,0 +1,169 @@
+*{
+    margin: 8px;
+    padding: 0;
+}
+.side button{
+    display: block;
+    width: 200px;
+    height: 45px;
+    margin: 7px;
+    border-radius: 4px;
+    border: 1px solid rgb(112, 226, 112);
+    background-color: white;
+    cursor: pointer;
+}
+ button:hover{
+    color: rgb(112, 226, 112);
+    background-color: rgba(112, 226, 112, 0.404);
+    transition: 0.3s ease-in-out;
+} 
+.container{
+    margin-top: 45px;
+}
+ .allcart{
+
+    margin-left: 250px;
+    display:grid;
+    grid-template-columns: repeat(3,360px);
+    margin-top: -222px;
+}
+
+
+.cart1 img{
+    background-color: rgba(73, 66, 66, 0.137);
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+}
+.cart2 img{
+    background-color: rgba(73, 66, 66, 0.137);
+    padding: 10px;
+    width: 300px;
+    height: 230px;
+    border-radius: 5px;
+}
+.cart3 img{
+    background-color: rgba(73, 66, 66, 0.137);
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+}
+.cart4 img{
+    background-color: rgba(73, 66, 66, 0.137);
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+}
+.cart5 img{
+    background-color: rgba(73, 66, 66, 0.137);
+    width: 320px;
+    height: 250px;
+    border-radius: 5px;
+}
+.cart6 img{
+    background-color: rgba(73, 66, 66, 0.137);
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+}
+.bt1{
+    width: 270px;
+    height: 40px;
+    background-color:  rgb(89, 230, 89);
+    border:rgb(112, 226, 112);
+    border-radius: 5px;
+    color: white;
+}
+.bt2{
+    width: 270px;
+    height: 40px;
+    background-color:  rgb(89, 230, 89);
+    border:rgb(112, 226, 112);
+    border-radius: 5px;
+    color: white;
+}
+.bt3{
+    width: 270px;
+    height: 40px;
+    background-color:  rgb(89, 230, 89);
+    border:rgb(112, 226, 112);
+    border-radius: 5px;
+    color: white;
+}
+.bt4{
+    width: 270px;
+    height: 40px;
+    background-color:  rgb(89, 230, 89);
+    border:rgb(112, 226, 112);
+    border-radius: 5px;
+    color: white;
+}
+.bt5{
+    width: 270px;
+    height: 40px;
+    background-color:  rgb(89, 230, 89);
+    border:rgb(112, 226, 112);
+    border-radius: 5px;
+    color: white;
+}
+.bt6{
+    width: 270px;
+    height: 40px;
+    background-color:  rgb(89, 230, 89);
+    border:rgb(112, 226, 112);
+    border-radius: 5px;
+    color: white;
+}
+.prop1{
+    box-shadow: 0px 0px 1px;
+    margin-top: -20px;
+    width: 315px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h4{
+    color: rgb(89, 230, 89); ;
+}
+.title p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+header{
+    margin-top: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ajout{
+width: 400px;
+height: 100px;
+border:3px dotted rgba(0, 0, 0, 0.377);
+border-radius: 5px;
+margin-left: 300px ;
+color:  rgba(0, 0, 0, 0.377);
+}
+.ajout1{
+    width: 400px;
+    height: 100px;
+    border:3px dotted rgba(0, 0, 0, 0.377);
+    border-radius: 5px;
+    color:  rgb(0, 0, 0.377);
+    }
+
+    .chiffre button{
+        padding: 15px;
+        background-color:  rgb(89, 230, 89);
+        border:  rgb(89, 230, 89); 
+        display: inline;
+        color: white;
+        border-radius: 4px;
+        margin: 10px;
+        cursor: pointer;
+    }
+    .chiffre {
+        margin-left: 635px;
+    }
+
+
+
+
+
